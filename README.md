@@ -10,8 +10,8 @@ sudo apt-get install qt5-default
 python testQT.py to test.
 
 # model:
-  copy ctpn_trained_model.caffemodel to ./CTPN.models
-  copy CRNN.pth to ./crnn/samples
+the models for cptn and crnn is training now
+I will upload them to my baiduyun a few days later.
   
 # sample:
 <p align="center">
