@@ -13,3 +13,7 @@ python testQT.py to test.
   copy ctpn_trained_model.caffemodel to ./CTPN.models
   copy CRNN.pth to ./crnn/samples
   
+# sample:
+<p align="center">
+    <img src="examples/test.png", width="640">
+</p>
