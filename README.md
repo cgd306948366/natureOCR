@@ -12,8 +12,3 @@ python testQT.py to test.
 # model:
 the models for cptn and crnn is training now
 I will upload them to my baiduyun a few days later.
-  
-# sample:
-<p align="center">
-    <img src="examples/test.png", width="640">
-</p>
